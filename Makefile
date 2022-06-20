@@ -35,4 +35,4 @@ operations.o:operations.c
 	$(CC) $(CF) operations.c
 
 clean:
-	rm -rf *.o output
+	rm -rf *.o bc
