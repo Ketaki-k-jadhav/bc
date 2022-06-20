@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "number.h"
+/*
+code to take input large numbers and display them
 int main()
 {
     Num *N1, *N2, *s;
@@ -47,3 +47,4 @@ int main()
 
     return 0;
 }
+*/

@@ -1,11 +1,8 @@
-#include <stdio.h>
-#include <ctype.h>
-#include <stdlib.h>
-#include <string.h>
-#include <limits.h>
 #include "number.h"
 #include "operations.h"
 
+/*
+code to display basic operations
 int main()
 {
 
@@ -74,3 +71,4 @@ int main()
     printf("power:");
     traverse(pow);
 }
+*/

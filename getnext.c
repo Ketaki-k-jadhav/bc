@@ -1,8 +1,3 @@
-#include <stdio.h>
-#include <ctype.h>
-#include <stdlib.h>
-#include <string.h>
-#include <limits.h>
 #include "getnext.h"
 
 // t[j].type=100, for integer token

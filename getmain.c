@@ -1,10 +1,5 @@
-#include <stdio.h>
-#include <ctype.h>
-#include <stdlib.h>
-#include <string.h>
-#include <limits.h>
 #include "getnext.h"
-
+/*
 int main()
 {
 
@@ -20,3 +15,4 @@ int main()
 
         return 0;
 }
+*/

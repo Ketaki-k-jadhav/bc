@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "number.h"
 /* Takes argument as Num pointer
  * Initializes Number data type

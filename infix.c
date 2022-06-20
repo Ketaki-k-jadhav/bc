@@ -1,8 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <limits.h>
-#include <ctype.h>
-#include <string.h>
 #include "infix.h"
 
 // t[j].type=100, for integer token
@@ -153,8 +148,8 @@ Num *applyOp(Num *N1, Num *N2, Num *res, char op)
     case '^':
         res = power(N1, N2);
         break;
-    case '%':
-        res = modula(N1, N2);
+    // case '%':
+    //     res = modula(N1, N2);
     default:
         break;
     }
